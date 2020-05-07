@@ -10,6 +10,9 @@
 
 <img alt="screesnhot" src="./screenshot.png">
 
+Netlyfi - Deployment status 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87fcbe3a-4252-42e4-b29c-0eb0cd6a3ba7/deploy-status)](https://app.netlify.com/sites/personal-blog-cms-cpe/deploys)
+
 This starter is a fork of Gatsby Starter Blog, the most popular starter by far – with second place being Gatsby Starter Netlify CMS. So I decided to combine the 2!
 
 ## 🚀 Quick start
